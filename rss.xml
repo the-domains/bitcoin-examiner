@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Bitcoin Examiner]]></title>
         <description><![CDATA[Bitcoin Examiner]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bitcoin-examiner/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 21:13:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Feb 2016 21:18:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bitcoin-examiner/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb551b7a-4b64-4b77-8014-8913a1c1f750.jpg">]]></description>
+            <link>https://thegrid.ai/bitcoin-examiner/8269eff7-68a0-4d5c-8197-01e844c3e12c/index.html</link>
+            <guid isPermaLink="false">8269eff7-68a0-4d5c-8197-01e844c3e12c</guid>
+            <pubDate>Thu, 18 Feb 2016 21:17:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Bitcoin Examiner will provide quality, sane commentary on the 21st world game-changer: Bitcoin. </p>]]></description>
-            <link>undefinedbc4bd146-b8da-4b96-b1ca-73a05f8177c8/index.html</link>
+            <link>https://thegrid.ai/bitcoin-examiner/bc4bd146-b8da-4b96-b1ca-73a05f8177c8/index.html</link>
             <guid isPermaLink="false">bc4bd146-b8da-4b96-b1ca-73a05f8177c8</guid>
             <pubDate>Thu, 18 Feb 2016 21:12:36 GMT</pubDate>
         </item>
