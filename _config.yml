@@ -1,0 +1,28 @@
+name: Bitcoin Examiner
+favicon: null
+layout_spectrum: 0.20558091392740607
+typography_spectrum: 0.5283896767068654
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.16968022705987096
+  lightness: 0.6685727811418474
+  saturation: 0.714416115777567
+  rhythmicContrast: 0.4403682267293334
+purpose: []
